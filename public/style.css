@@ -3,8 +3,8 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #ECF0F1;
+  color: #c5c5c5;
+  background-color: #000000;
   text-align: center;
 }
 
@@ -13,12 +13,12 @@ body {
   margin-top: 40px;
 }
 
-.footer {
+footer {
   margin-top: 60px;
 }
 
 a {
-  color: #2574A9;
+  color: #575757;
 }
 
 input {
@@ -35,7 +35,7 @@ input#button {
   position:relative;
   margin: auto;
   margin-top: 40px;
-  border: 1px  solid  #aaa;
+  border: 1px  solid  #747474;
   padding: 20px;
   width: 60%;
   min-width: 400px;
